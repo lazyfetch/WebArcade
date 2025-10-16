@@ -26,7 +26,7 @@ function About() {
                 <div className="floating-buttons">
                     <button 
                         className="floating-button github"
-                        onClick={() => openLink('https://github.com/runt1meerr0r07')}
+                        onClick={() => openLink('https://github.com/lazyfetch')}
                     >
                         <FaGithub className="button-icon" />
                         <span className="button-text">GitHub</span>
